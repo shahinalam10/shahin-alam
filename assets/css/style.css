@@ -1438,6 +1438,8 @@ SVG Container Styling
   left: 0;
   right: 0;
   bottom: 0;
+  background: url("/assets/img/achievement.jpg") center/cover no-repeat; /* Updated the image path */
+  filter: blur(2px); /* Adjust the blur level here */
 }
 
 /* Fact boxes */
